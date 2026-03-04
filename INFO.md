@@ -1,2 +1,2 @@
 git is awesome!
-b/INFO.md
+b/INFO.mdtest
